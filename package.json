@@ -1,0 +1,21 @@
+{
+  "name": "html-to-svg",
+  "version": "0.0.1",
+  "description": "A html to svg converter",
+  "main": "index.js",
+  "dependencies": {
+    "jimdo-ui-library": "git+https://github.com/Jimdo/ui-library.git",
+    "jquery": "^2.2.1"
+  },
+  "devDependencies": {
+    "css": "^2.2.1",
+    "fs": "0.0.2",
+    "webpack": "^1.12.14",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@lassediercks",
+  "license": "MIT"
+}
