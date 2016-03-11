@@ -12,3 +12,11 @@ console.log(
 
 
 
+
+
+
+var visualStyles = [
+  'color',
+  'background-color',
+  'font-family'
+];
