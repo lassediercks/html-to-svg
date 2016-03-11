@@ -2,8 +2,6 @@ var css = require('css');
 var $ = require('jquery');
 
 
-
-var element = $(".jui-headline");
 var element2 = document.getElementsByClassName("jui-headline");
 
 
