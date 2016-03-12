@@ -1,0 +1,10 @@
+h3{
+  font-family: Helvetica;
+  color: grey;
+}
+
+button{
+  padding: 3em;
+  color: white;
+  background: #00E;
+}

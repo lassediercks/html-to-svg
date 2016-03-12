@@ -4,7 +4,6 @@
   "description": "A html to svg converter",
   "main": "index.js",
   "dependencies": {
-    "jimdo-ui-library": "git+https://github.com/Jimdo/ui-library.git",
     "jquery": "^2.2.1",
     "list-of-visual-css-properties": "0.0.1"
   },
