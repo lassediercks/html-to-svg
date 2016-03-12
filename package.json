@@ -4,14 +4,16 @@
   "description": "A html to svg converter",
   "main": "index.js",
   "dependencies": {
+    "camelcase": "^2.1.1",
     "jquery": "^2.2.1",
-    "list-of-visual-css-properties": "0.0.1"
+    "list-of-visual-css-properties": "0.1.0",
+    "node-phantom": "^0.2.5",
+    "paint-svg": "0.1.0",
+    "webpage": "^0.3.0"
   },
   "devDependencies": {
     "css": "^2.2.1",
-    "fs": "0.0.2",
-    "webpack": "^1.12.14",
-    "webpack-dev-server": "^1.14.1"
+    "fs": "0.0.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
