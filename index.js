@@ -1,4 +1,4 @@
-require('./node_modules/list-of-visual-css-properties/list.js');
+var visualStyles = require('list-of-visual-css-properties');
 var css = require('css');
 var $ = require('jquery');
 
